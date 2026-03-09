@@ -56,9 +56,6 @@ En resumen, los pesos controlan **qué tan importante** es cada característica 
 que el bias controla **qué tan difícil** es obtener una salida positiva. Juntos determinan el
 comportamiento del perceptrón para todos los casos de prueba.
 
-
-
-
 # ==========================================
 # BLOQUE 7: GRÁFICA FRONTERA DE DECISIÓN
 # (configuración 1)
